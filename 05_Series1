@@ -1,0 +1,11 @@
+#include <stdio.h>
+main()
+
+{
+    int c;
+
+    for(c=50; c>=0; c-=1)
+{
+    printf("NUM %d \n", c);
+}
+}
